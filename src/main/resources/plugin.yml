@@ -1,0 +1,4 @@
+name: ipAuth
+version: '${version}'
+main: tech.pasha.ipauth.IpAuth
+api-version: '1.20'
